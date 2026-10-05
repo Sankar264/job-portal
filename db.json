@@ -1,0 +1,144 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Ravi Employer",
+      "email": "employer@test.com",
+      "password": "123456",
+      "role": "employer"
+    },
+    {
+      "id": 2,
+      "name": "Anu Seeker",
+      "email": "seeker@test.com",
+      "password": "123456",
+      "role": "seeker"
+    },
+    {
+      "name": "basdjsjb",
+      "email": "ksankar8096@gmail.com",
+      "password": "1234560",
+      "role": "seeker",
+      "id": 3
+    },
+    {
+      "name": "m m",
+      "email": "ksankar8@gmail.com",
+      "password": "1234567890",
+      "role": "employer",
+      "id": 4
+    },
+    {
+      "name": "kkk",
+      "email": "ksankar806@gmail.com",
+      "password": "1234567890",
+      "role": "seeker",
+      "id": 5
+    },
+    {
+      "name": "knsknd",
+      "email": "ksankar86@gmail.com",
+      "password": "12345678",
+      "role": "employer",
+      "id": 6
+    },
+    {
+      "name": "ssss",
+      "email": "ksankr8096@gmail.com",
+      "password": "123456789",
+      "role": "seeker",
+      "id": 7
+    }
+  ],
+  "jobs": [
+    {
+      "id": 1,
+      "title": "React Developer",
+      "company": "TechNova",
+      "location": "Hyderabad",
+      "salary": 8,
+      "type": "Full-time",
+      "description": "Build and maintain React applications with REST APIs.",
+      "employerId": 1,
+      "perks": [
+        "Hybrid work",
+        "Health cover",
+        "Learning budget"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Python Backend Engineer",
+      "company": "CodeCraft",
+      "location": "Bengaluru",
+      "salary": 12,
+      "type": "Full-time",
+      "description": "Develop scalable Python services and APIs.",
+      "employerId": 1,
+      "perks": [
+        "Flexible hours",
+        "ESOPs",
+        "Home-office kit"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Pega Developer Intern",
+      "company": "FlowWorks",
+      "location": "Chennai",
+      "salary": 3,
+      "type": "Internship",
+      "description": "Learn and build workflows on the Pega Platform.",
+      "employerId": 1,
+      "perks": [
+        "Monthly stipend",
+        "Mentorship",
+        "PPO chance"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "UI Designer",
+      "company": "PixelHub",
+      "location": "Remote",
+      "salary": 6,
+      "type": "Part-time",
+      "description": "Design clean interfaces and prototypes.",
+      "employerId": 1,
+      "perks": [
+        "Remote-first",
+        "Design tools budget"
+      ]
+    },
+    {
+      "title": "kkmk",
+      "company": "mkkn",
+      "location": "nnkk",
+      "salary": 9,
+      "type": "Full-time",
+      "description": "nkml",
+      "employerId": 4,
+      "id": 5
+    },
+    {
+      "title": "dcdcx",
+      "company": "zcccx",
+      "location": "cc",
+      "salary": 90,
+      "type": "Full-time",
+      "description": "ssd",
+      "employerId": 6,
+      "id": 6
+    }
+  ],
+  "savedJobs": [
+    {
+      "userId": 3,
+      "jobId": 1,
+      "id": 1
+    }
+  ],
+  "resumes": [],
+  "applications": [],
+  "gameScores": []
+}
